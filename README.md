@@ -9,7 +9,7 @@ MySQL with arc_database (will be provided)
 Apache server
 
 Setup:
-1. Place all PHP files in your web server's document root.
+1. Place the 'ARC_Project' folder in your web server's document root.
 2. Copy the SQL code to create the 'users', 'project', and 'documents' tables.
 3. You may have to update the database credentials in the db.php.
 
